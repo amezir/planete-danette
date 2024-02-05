@@ -1,4 +1,4 @@
-## Project by ME, Driss BENADJAL, Noam SEBAHOUN & Amel CHABAH.
+Project by ME, Driss BENADJAL, Noam SEBAHOUN & Amel CHABAH.
 
 ## Getting Started
 
